@@ -5,10 +5,13 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Telephony-Mobile-Device-Utilities/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Telephony-Mobile-Device-Utilities?style=social&color=white" alt="GitHub Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Telephony-Mobile-Device-Utilities/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Telephony-Mobile-Device-Utilities?style=social&color=white" alt="GitHub Forks" /></a>
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -30,6 +33,8 @@ Whether architecting carrier-grade telecom backbones, conversational voice AI ag
   - [Specialized Sub-Ecosystem Toolkits](#specialized-sub-ecosystem-toolkits)
 - [🛠️ Architectural Blueprints & Integration Patterns](#️-architectural-blueprints--integration-patterns)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
 - [📄 License & Disclaimer](#-license--disclaimer)
 
 ---
@@ -226,6 +231,26 @@ Contributions are welcome! Please follow these guidelines:
    - For Open-Source projects: include name, GitHub repository handle, star badge, and an accurate 1-2 sentence description.
 4. 🧪 **Ensure proper formatting and sorting**: SaaS table sorted by company valuation/revenue; Open-Source tools sorted by stars descending.
 5. 🚀 **Submit a Pull Request** with a concise summary of the addition.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring and using this curated directory! If you find this resource helpful for your VoIP architectures, telecom backbones, or mobile engineering workflows:
+
+- ⭐ **Star the repository** to show your appreciation and help more developers discover it.
+- 🍴 **Fork and share** the project with telecom engineers, mobile developers, and DevOps teams.
+- ☕ **Buy me a coffee / Sponsor**: Support ongoing maintenance, research, and curation through the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Your support is deeply appreciated and keeps this ecosystem up-to-date! 🙌
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Telephony-Mobile-Device-Utilities&type=Date)](https://star-history.com/#ishandutta2007/Awesome-Telephony-Mobile-Device-Utilities&Date)
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Telephony-Mobile-Device-Utilities&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Telephony-Mobile-Device-Utilities&type=date&legend=top-left)
 
 ---
 
